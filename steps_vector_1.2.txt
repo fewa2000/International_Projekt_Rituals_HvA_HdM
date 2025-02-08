@@ -1,0 +1,35 @@
+CMD: 
+
+cd .\International_Projekt_Rituals_HvA_HdM
+
+ogr2ogr -f GeoJSON -s_srs EPSG:3035 -t_srs EPSG:4326 nuts3_reprojected_corrected.geojson nuts3_utf8.geojson
+
+Ubuntu:
+
+cd './International_Projekt_Rituals_HvA_HdM'
+
+iconv -f ISO-8859-1 -t UTF-8 nuts3.geojson -o nuts3_reprojected_corrected.geojson
+
+
+tippecanoe -o nuts3_1.mbtiles \
+  --drop-densest-as-needed \
+  --drop-smallest-as-needed \
+  --maximum-zoom=6 \
+  --minimum-zoom=2 \
+  --simplify-only-low-zooms \
+  --simplification=2 \
+  --no-feature-limit \
+  --no-tile-size-limit \
+  nuts3_reprojected_corrected.geojson
+
+
+
+tippecanoe -o nuts3_2.mbtiles \
+  --drop-densest-as-needed \
+  --drop-smallest-as-needed \
+  --maximum-zoom=6 \
+  --minimum-zoom=2 \
+  --simplify-only-low-zooms \
+  --simplification=4 \
+  --tile-size-limit=50000 \
+  nuts3_reprojected_corrected.geojson

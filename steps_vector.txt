@@ -1,0 +1,43 @@
+STEPs: 
+
+
+
+Ubuntu:
+
+cd './International_Projekt_Rituals_HvA_HdM'
+
+
+1. Use the Ubuntu Shell to Run Tippecanoe:
+
+Open your Ubuntu shell.
+
+Navigate to the directory where your nuts3.geojson file is located. For example:
+
+Note: /mnt/c/ represents the C: drive on your Windows system. Replace the path as per your file location.
+
+tippecanoe-CODE:
+
+tippecanoe -o FINAL_nuts3.mbtiles --drop-densest-as-needed --maximum-zoom=g --minimum-zoom=2 nuts3_reprojected_corrected.geojson
+
+tippecanoe -o nuts3_3.mbtiles --drop-densest-as-needed --maximum-zoom=g --minimum-zoom=2 --simplification=8 nuts3_reprojected_corrected.geojson
+
+
+
+2. Serve Vector Tiles Locally (Optional)
+
+If you want to serve the tiles locally to test them, you can use tileserver-gl. Here’s how you do it:
+
+In your Ubuntu shell, run the following command to serve the nuts3.mbtiles:
+
+CODE:
+
+npx tileserver-gl-light --mbtiles FINAL_nuts3.mbtiles
+
+
+In VS-CODE: 
+cd in the right directory
+
+run python file 
+
+
+

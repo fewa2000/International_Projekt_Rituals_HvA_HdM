@@ -1,0 +1,360 @@
+Name;Address;Postal Code;City;Country;ATV;Customer
+Rituals Viernheim Rhein Neckar Zentrum;Robert-Schuman-Straße 8;68519;Viernheim;Germany;43;46845
+Rituals Gütersloh;Berliner Straße 41;33330;Guetersloh;Germany;41;46771
+Rituals Sankt Augustin HUMA;Rathausallee 16;53757;Sankt Augustin;Germany;37;28479
+Rituals Stuttgart Gerber;Sophienstraße 21;70178;Stuttgart;Germany;43;36618
+Rituals Flensburg Citti Park;Langberger Weg 4;24941;Flensburg;Germany;38;19555
+Rituals Leipzig Höfe am Brühl;Brühl 1;04109;Leipzig;Germany;45;32486
+Rituals Bayreuth Rotmain Center;Hohenzollernring 58;95444;Bayreuth;Germany;20;40154
+Rituals Reutlingen;Wilhelmstraße 34;72764;Reutlingen;Germany;26;11449
+Rituals Dresden Kaufpark;Dohaer Strasse 246;01239;Dresden;Germany;37;25430
+Rituals Lüdenscheid Stern Center;Wilhelmstraße 33;58511;Lüdenscheid;Germany;33;21985
+Rituals Nürnberg Franken Center;Glogauer Straße 30-38;90473;Nürnberg;Germany;19;15179
+Rituals Recklinghausen Palais Vest;Löhrhof 1;45657;Recklinghausen;Germany;46;36328
+Rituals Schwedt;Landgrabenpark 1;16303;Schwedt;Germany;34;43255
+Rituals Bremen Waterfront;AG-Weser-Straße 3;28237;Bremen;Germany;27;28323
+Rituals Ahrensfelde Kaufpark Eiche;Landsberger Chaussee 17;16356;Ahrensfelde;Germany;46;16326
+Rituals Konstanz Lago;Bodanstraße 1;78462;Konstanz;Germany;50;41605
+Rituals Aurich;Marktplatz 32;26603;Aurich;Germany;48;15911
+Rituals Neustadt a.d. Weinstraße;Hauptstraße 54;67433;Neustadt a.d. Weinstraße;Germany;44;48834
+Rituals Lingen;Poststrasse 5;49808;Lingen;Germany;47;33324
+Rituals Schweinfurt;Gunnar-Wester-Straße 10;97421;Schweinfurt;Germany;18;31233
+Rituals Leuna;Nova Eventis 1;06237;Leuna;Germany;41;19823
+Rituals Düren;Kuhgasse 8;52349;Düren;Germany;28;18546
+Rituals Ansbach Brücken Center;Residenzstraße 2-6;91522;Ansbach;Germany;27;18797
+Rituals Köln Ehrenstraße;Ehrenstraße 43-45;50672;Köln;Germany;21;46301
+Rituals Braunschweig Schloß Arkaden;Platz am Ritterbrunnen 1;38100;Braunschweig;Germany;46;11345
+Rituals Detmold;Lange Straße 34;32756;Detmold;Germany;44;46371
+Rituals Plauen Stadt Galerie;Postplatz 1;08523;Plauen;Germany;36;42874
+Rituals Kleve;Große Straße 63;47533;Kleve;Germany;18;11049
+Rituals Dresden Altmarkt Galerie;Webergasse 1;01067;Dresden;Germany;43;18180
+Rituals Lüneburg Große Bäckerstraße;Große Bäckerstraße 8a;21335;Lüneburg;Germany;45;45586
+Rituals Euskirchen;Neustraße 27;53879;Euskirchen;Germany;26;27824
+Rituals Wiesbaden Kirchgasse;Kirchgasse 36;65183;Wiesbaden;Germany;29;19333
+Rituals Berlin Hallen am Borsigturm;Am Borigturm 2;13507;Berlin;Germany;20;33854
+Rituals Darmstadt Luisencenter;Luisenplatz 5;64283;Darmstadt;Germany;44;16719
+Rituals Hamburg Elbe;Osdorfer Landstrasse 131-135;22609;Hamburg;Germany;21;29463
+Rituals München Riem;Willy Brandt Platz 5;81829;München;Germany;40;23203
+Rituals Husum THEO - Shopping Center;Großstrasse 15-17/ Schloßstrasse;25813;Husum;Germany;31;27587
+Rituals Straubing Ludwigsplatz;Ludwigsplatz 35;94315;Straubing;Germany;25;20526
+Rituals Erlangen Arcaden;Nürnberger Straße 7;91052;Erlangen;Germany;29;47497
+Rituals Berlin Leipziger Platz (Mall of Berlin);Leipziger Platz 12;10117;Berlin;Germany;39;46668
+Rituals Koblenz Löhr Center;Hohenfelder Straße 22;56068;Koblenz;Germany;15;11840
+Rituals Mülheim Rhein Ruhr Centrum;Humboldtring 13;45472;Mülheim;Germany;20;16367
+Rituals Duisburg Forum;Königstraße 48;47051;Duisburg;Germany;32;35842
+Rituals Remscheid Allee Center;Theodor-Heuss-Platz 7;42853;Remscheid;Germany;27;38706
+Rituals München Pasing;Pasinger Bahnhofsplatz 5;81241;München;Germany;20;25496
+Rituals Berlin Friedrichstraße;Friedrichstraße 149;10117;Berlin;Germany;26;21120
+Rituals Berlin Wildau;Chausseestraße 1;15745;Wildau;Germany;24;14143
+Rituals Singen Cano;Bahnhofstrasse 29;78224;Singen Hohentwiel;Germany;48;43654
+Rituals Hameln;Stadt Galerie Pferdemarkt 1;31785;Hameln;Germany;33;25041
+Rituals Villingen-Schwenningen;Rietstraße 3;78050;Villingen-Schwenningen;Germany;49;44952
+Rituals Hamburg Gerhofstraße;Gerhofstsraße 2-8;20354;Hamburg;Germany;22;42530
+Rituals Berlin Schönhauser Allee;Schönhauserallee 79;10439;Berlin;Germany;44;36231
+Rituals Hamm Allee Center;Richard-Matthaei-Platz 1;59065;Hamm;Germany;27;36072
+Rituals Aalen Kubus;Marktplatz 26;73430;Aalen;Germany;37;45941
+Rituals Köln Rhein-Center;Aachenerstraße 1253;50858;Köln;Germany;36;22785
+Rituals Celle;Zöllnerstraße 5;29221;Celle;Germany;31;36057
+Rituals Hamburg Europa Passage;Ballindamm 40;20095;Hamburg;Germany;15;32145
+Rituals Regensburg;Königstraße 2-4;93047;Regensburg;Germany;20;13708
+Rituals Münster;Ludgeristraße 24;48143;Münster;Germany;43;49971
+Rituals Giessen;Seltersweg 44;35390;Giessen;Germany;27;22373
+Rituals Oberhausen Centro;Centroallee 124/125;46047;Oberhausen;Germany;39;35482
+Rituals Bergisch Gladbach;Hauptstraße 141 - 143;51465;Bergisch Gladbach;Germany;33;38975
+Rituals Neunkirchen Saar Park;Stummstraße 1;66538;Neunkirchen;Germany;25;26066
+Rituals Limburg;Werner-Senger-Straße 4;65549;Limburg;Germany;35;37481
+Rituals Garmisch-Partenkirchen;Chamonixstr. 1;82467;Garmisch-Partenkirchen;Germany;32;32815
+Rituals Ludwigsburg Breuningerland;Heinkelstraße 1;71634;Ludwigsburg;Germany;17;21404
+Rituals München OEZ;Hanauer Straße 68;80993;München;Germany;44;44573
+Rituals Mannheim O3;O3 2-8;68161;Mannheim;Germany;23;21232
+Rituals Bielefeld Loom;Bahnhofstraße 28;33602;Bielefeld;Germany;33;46189
+Rituals Leonberg Leo Center;Leonberger Straße 98-108;71229;Leonberg;Germany;39;41716
+Rituals Düsseldorf Flinger Straße;Flinger Str. 34;40213;Düsseldorf;Germany;25;21819
+Rituals Köln Schildergasse;Schildergasse 95-101;50667;Köln;Germany;29;34745
+Rituals Ludwigshafen;Im Zollhof 4;67061;Ludwigshafen;Germany;20;34091
+Rituals Dinslaken Neutor Galerie;Neutorplatz 14;46535;Dinslaken;Germany;29;25363
+Rituals Karlsruhe Ettlinger Tor;Karl-Friedrich-Straße 26;76133;Karlsruhe;Germany;46;11410
+Rituals München Karlsplatz;Karlsplatz 10;80335;München;Germany;16;41077
+Rituals Rosenheim;Münchener Strasse 6;83022;Rosenheim;Germany;25;24034
+Rituals Lübeck;Breite Straße 47-53;23552;Lu?beck;Germany;49;42467
+Rituals Greifswald Markt;Markt 30;17489;Greifswald;Germany;42;12634
+Rituals Gera Arcaden;Heinrichstraße 30;07545;Gera;Germany;37;35960
+Rituals Tübingen;Neckargasse 27;72070;Tübingen;Germany;39;10563
+Rituals München PEP;Thomas Dehler Strasse 10;81737;München;Germany;19;11874
+Rituals Dessau Rathaus Galerie;Kavalierstraße 49;06844;Dessau;Germany;40;43097
+Rituals Rostock Kröpeliner Straße;Kröpeliner Straße 64;18055;Rostock;Germany;33;29506
+Rituals Siegen;City Galerie Siegen;57072;Siegen;Germany;23;26250
+Rituals Köln Hauptbahnhof;Trankgasse 11;50667;Köln;Germany;19;28775
+Rituals Frankfurt am Main Zeil;Zeil 112-114;60313;Frankfurt am Main;Germany;43;11675
+Rituals Ottersberg Posthausen Dodenhof;Posthausen 1;28869;Ottersberg-Posthausen;Germany;30;14609
+Rituals Neumünster Designer Outlet;Oderstraße 10;24539;Neumünster;Germany;21;40473
+Rituals Erfurt;Anger 60;99084;Erfurt;Germany;35;17936
+Rituals Gummersbach;Steinmüllerallee 5;51643;Gummersbach;Germany;32;11382
+Rituals Neu Ulm Glacis Galerie;Bahnhofstraße 1/3;89231;Neu-Ulm;Germany;34;26457
+Rituals Arnsberg;Hauptstraße 21;59755;Arnsberg;Germany;29;11683
+Rituals Berlin Alexa;Grunerstr.20;10179;Berlin;Germany;44;47974
+Rituals Göppingen Agnes;Bleichstraße 29;73033;Göppingen;Germany;45;31314
+Rituals Esslingen;Berliner Straße 2-4;73728;Esslingen;Germany;16;29428
+Rituals Leipzig Grimmaische Straße;Grimmaische Straße 19;04109;Leipzig;Germany;43;14199
+Rituals München Hauptbahnhof;Bayerstrasse 10a;80335;München;Germany;47;30864
+Rituals Rheine;Emsstraße 36;48431;Rheine;Germany;26;35265
+Rituals Berlin Das Schloß;Schlossstraße 33-36;12163;Berlin;Germany;46;36481
+Rituals Stade;Holzstraße 18;21682;Stade;Germany;42;46523
+Rituals Mönchengladbach Minto;Hindenburgstraße 73;41061;Mönchengladbach;Germany;40;35890
+Rituals Hannover EAG;Ernst-August-Platz 2;30159;Hannover;Germany;28;17640
+Rituals Bremen Sögestraße;Sögestraße 37/39;28195;Bremen;Germany;22;38415
+Rituals Wuppertal;Alte Freiheit 9;42103;Wuppertal;Germany;48;15944
+Rituals Bonn;Marktbrücke 4;53111;Bonn;Germany;25;11261
+Rituals Solingen;Kölner Straße 99;42651;Solingen;Germany;26;17779
+Rituals Kaiserslautern;Fackelrondell 1;67655;Kaiserslautern;Germany;18;23655
+Rituals Köln Neumarkt;Neumarkt 2-4;50667;Köln;Germany;37;43671
+Rituals Würzburg;Schönbomstrasse 2;97070;Würzburg;Germany;45;39320
+Rituals Essen Kettwiger Straße;Kettwiger Straße 43;45127;Essen;Germany;49;16036
+Rituals Düsseldorf Schadow Arkaden;Schadowstraße 11;40212;Düsseldorf;Germany;44;15834
+Rituals München Theatinerstraße;Theatinerstraße 29;80333;München;Germany;17;14510
+Rituals Ratingen;Marktplatz 21;40878;Ratingen;Germany;37;40462
+Rituals Paderborn;Westernstraße 16;33098;Paderborn;Germany;43;26677
+Rituals Berlin Wustermark Designer Outlet;Alter Spandauer Weg 1;14641;Wustermark Berlin;Germany;44;44776
+Rituals Hannover Kröpcke;Karmarschstraße 19-23d;30159;Hannover;Germany;37;47639
+Rituals Köln Arcaden;Kalker Hauptstraße 55;51103;Köln;Germany;46;18519
+Rituals Offenburg;Hauptstraße 84-88;77652;Offenburg;Germany;25;45864
+Rituals Berlin Gesundbrunnen;Badstraße 4;13357;Berlin;Germany;21;18714
+Rituals Berlin Spandau;Klosterstraße 3;13581;Berlin;Germany;27;30053
+Rituals Zweibrücken Fashion Outlet;Londoner Bogen 10-90;66482;Zweibrücken;Germany;22;31622
+Rituals Sindelfingen Breuningerland;Tilsiter Straße 15;71065;Sindelfingen;Germany;46;16500
+Rituals Dresden Elbe Park;Peschelstraße 33;01139;Dresden;Germany;21;17109
+Rituals Dresden;Trompeterstraße 5;01069;Dresden;Germany;33;42606
+Rituals Neuss Rheinpark-Center;Breslauer Straße 2;41460;Neuss;Germany;45;30034
+Rituals Kempten;August-Fischer-Platz 1;87435;Kempten;Germany;30;23967
+Rituals Stuttgart Königstrasse;Königstraße 46;70173;Stuttgart;Germany;39;13189
+Rituals Stralsund;Ossenreyerstraße 27;18439;Stralsund;Germany;44;30230
+Rituals Bremen Weserpark;Hans-Bredow-Straße 19;28307;Bremen;Germany;41;44785
+Rituals Sylt-Westerland;Friedrichstraße 25;25980;Sylt-Westerland;Germany;16;17606
+Rituals Minden;Bäckerstraße 9;32423;Minden;Germany;27;42353
+Rituals Stuttgart Milaneo;Mailänder Platz 7;70713;Stuttgart;Germany;28;10584
+Rituals Hagen Rathaus Galerie;Mittelstraße 22;58095;Hagen;Germany;24;42668
+Rituals Krefeld;Hochstraße 82;47798;Krefeld;Germany;26;27551
+Rituals Norderstedt Herold-Center;Berliner Allee 40;22850;Norderstedt;Germany;26;37341
+Rituals Fulda;Bahnhofstraße 7;36037;Fulda;Germany;38;10622
+Rituals Berlin Airport Schönefeld;Willy-Brandt-Platz 2;12529;Schönefeld Berlin;Germany;28;38411
+Rituals Kiel Sophienhof;Sophienblatt 20;24103;Kiel;Germany;37;35813
+Rituals Neuss;Büchel 18;41460;Neuss;Germany;22;22556
+Rituals Göttingen;Weenderstraße 51;37073;Göttingen;Germany;25;12331
+Rituals Marburg 2M Mall;Universitätsstraße 8;35037;Marburg;Germany;50;10188
+Rituals Velbert;Kolpingstraße 10;42551;Velbert;Germany;32;11334
+Rituals Hamburg Phoenixcenter;Hannoversche Straße 86;21079;Hamburg;Germany;40;21543
+Rituals Kassel Obere Königsstraße;Obere Königsstraße 45;34117;Kassel;Germany;15;36170
+Rituals Saarbrücken;Bahnhofstrasse 74;66111;Saarbrücken;Germany;35;33078
+Rituals Amberg;Georgenstraße 9;92224;Amberg;Germany;34;36058
+Rituals Regensburg Donau Einkaufszentrum;Weichser Weg 5;93059;Regensburg;Germany;36;41698
+Rituals Zwickau Arcaden;Innere Plauensche Straße 14;08056;Zwickau;Germany;15;46340
+Rituals Frankfurt Skyline Plaza;Europaallee 6;60327;Frankfurt;Germany;45;39265
+Rituals Karlsruhe;Kaiserstraße 209;76133;Karlsruhe;Germany;36;28656
+Rituals Bielefeld Niedernstraße;Niedernstraße 18;33602;Bielefeld;Germany;50;18725
+Rituals Chemnitz Galerie Roter Turm;Neumarkt 2;09111;Chemnitz;Germany;18;20895
+Rituals Wertheim Village;Almosenberg;97877;Wertheim;Germany;34;49112
+Rituals Moers;Steinstraße 18;47441;Moers;Germany;25;47865
+Rituals Frankfurt NWZ;Limescorso 8;60439;Frankfurt am Main;Germany;24;13082
+Rituals Osnabrück;Große Straße 45;49074;Osnabrück;Germany;49;44444
+Rituals Wesel;Hohe Straße 74 / Beguinenstraße 2a;46483;Wesel;Germany;17;41245
+Rituals Augsburg City-Galerie;Willy-Brandt-Platz 1;86153;Augsburg;Germany;19;22201
+Rituals Berlin Gropius Passagen;Johannisthaler Chaussee 317;12351;Berlin;Germany;45;36054
+Rituals Cottbus BLECHEN carré;Karl-Liebknecht-Straße 136;03046;Cottbus;Germany;44;33326
+Rituals Lübeck CITTI-PARK;Herrenholz 14;23556;Lübeck;Germany;50;11370
+Rituals Unna;Bahnhofstraße 6;59423;Unna;Germany;27;38283
+Rituals Flensburg;Holm 27;24937;Flensburg;Germany;16;42646
+Rituals München Leopoldstraße;Leopoldstrasse 37;80802;München;Germany;47;24453
+Rituals Wetzlar Forum;Am Forum 1;35576;Wetzlar;Germany;32;22958
+Rituals Halle Leipziger Straße;Leipziger Straße 16;06108;Halle;Germany;16;39038
+Rituals Braunschweig Hutfiltern;Hutfiltern 4;38100;Braunschweig;Germany;34;27650
+Rituals Berlin Wilmersdorfer Arcaden;Wilmersdorfer Straße 46;10627;Berlin;Germany;15;42794
+Rituals Hanau;Langstrasse 47;63450;Hanau;Germany;35;35041
+Rituals Siegburg;Kaiserstraße 15;53721;Siegburg;Germany;43;10328
+Rituals Bad Oeynhausen Werre Park;Mindener Straße 22;32547;Bad Oeynhausen;Germany;28;35296
+Rituals Iserlohn;Wermingser Straße 12;58636;Iserlohn;Germany;42;10738
+Rituals Bocholt Neutor;Neutorplatz 2-4;46395;Bocholt;Germany;41;38007
+Rituals Neubrandenburg Marien-Carreé;Treptower Straße 1;17033;Neubrandenburg;Germany;30;10950
+Rituals Schwerin Schlosspark-Center;Am Marienplatz 5;19053;Schwerin;Germany;34;40799
+Rituals Herne;Bahnhofstraße 31;44623;Herne;Germany;15;32536
+Rituals Chemnitz Center;Ringstrasse 17;09247;Chemnitz;Germany;39;22100
+Rituals Leipzig Paunsdorf;Paunsdorfer Allee 1;04329;Leipzig;Germany;24;37059
+Rituals Lippstadt;Lange Straße 53;59555;Lippstadt;Germany;23;20530
+Rituals Hilden;Mittelstraße 29-33;40721;Hilden;Germany;27;41119
+Rituals Hamburg AEZ;Heegbarg 31;22391;Hamburg;Germany;48;27413
+Rituals Oldenburg;Achternstraße 8;26122;Oldenburg;Germany;28;14210
+Rituals Bad Homburg;Louisenstraße 63;61348;Bad Homburg;Germany;37;34048
+Rituals Bochum Kortumstrasse;Kortumstraße 68;44787;Bochum;Germany;48;39088
+Rituals Hamburg Sachsentor;Sachsentor 36;21029;Hamburg;Germany;33;20430
+Rituals Ulm;Münsterplatz 45;89073;Ulm;Germany;21;24569
+Rituals Potsdam Stern Center;Stern Center 1-10;14480;Potsdam-Drewitz;Germany;30;21214
+Rituals Leer;Mühlenstraße 112;26789;Leer;Germany;45;39494
+Rituals Augsburg;Bürgermeister Fischer Straße 11;86150;Augsburg;Germany;29;35917
+Rituals Speyer;Maximilianstraße 49;67346;Speyer;Germany;16;39890
+Rituals Kassel DEZ;Frankfurter Strasse 225;34134;Kassel;Germany;48;13830
+Rituals Hamburg Spitaler Straße;Spitaler Straße 16;20095;Hamburg;Germany;30;36306
+Rituals Goslar;Fischemäkerstraße 5;38640;Goslar;Germany;29;35374
+Rituals Ravensburg;Marienplatz 51;88212;Ravensburg;Germany;15;23936
+Rituals Aachen Aquis Plaza;Adalbertstraße 100;52062;Aachen;Germany;30;46375
+Rituals Trier;Fleischstraße 84;54290;Trier;Germany;46;22508
+Rituals Bochum Ruhr-Park;Am Einkaufszentrum 1;44791;Bochum;Germany;15;26653
+Rituals Baden-Baden;Lange Straße 11;76530;Baden-Baden;Germany;17;25085
+Rituals Weimar;Wielandstraße 2;99423;Weimar;Germany;27;11798
+Rituals Ludwigsburg Marstall;Marstallstraße 1;71634;Ludwigsburg;Germany;49;24176
+Rituals Wolfsburg Designer Outlets;An der Vorburg 1;38440;Wolfsburg;Germany;37;41658
+Rituals Neumünster;Gänsemarkt 1;24534;Neumünster;Germany;39;30790
+Rituals Hamburg Mercado;Ottenser Hauptstraße 10;22765;Hamburg;Germany;35;49611
+Rituals Jena Goethe Galerie;Goethestrasse 3b;07743;Jena;Germany;31;42663
+Rituals Heidelberg Hauptstraße;Hauptstraße 25;69117;Heidelberg;Germany;44;22826
+Rituals Berlin Forum Köpenick;Bahnhofstraße 33-38;12555;Berlin;Germany;30;14803
+Rituals München Kaufingerstraße;Kaufingerstraße 5;80331;München;Germany;43;13590
+Rituals Hürth Park;Hürth-Park B013;50354;Hürth;Germany;17;26636
+Rituals Pforzheim Schlössle Galerie; Kiehnlestraße 14-16;75172;Pforzheim;Germany;34;27653
+Rituals Berlin East Side Mall; Tamara-Danz-Straße 11;10243;Berlin;Germany;27;31708
+Rituals Memmingen Kramerstrasse;Kramerstrasse 30;87700;Memmingen;Germany;37;40214
+Rituals Hamburg Wandsbek Quarree; Quarree 8-10;22041;Hamburg;Germany;33;15653
+Rituals Nürnberg Hauptbahnhof; Bahnhofsplatz 9;90443;Nürnberg;Germany;20;17592
+Rituals Berlin Rathaus Center Pankow; Breite Strasse 20;13187;Berlin;Germany;21;20957
+Rituals Görlitz;Berliner Straße 57;02826;Görlitz;Germany;35;39473
+Rituals Freising;Untere Hauptstraße 6;85354;Freising;Germany;48;35405
+Rituals Wittenberg Arsenal; Markt 16;06886;Wittenberg;Germany;19;45674
+Rituals Erfurt Thüringen-Park; Nordhäuser Straße 73 t;99091;Erfurt;Germany;36;37741
+Rituals Eisenach Karlstrasse;Karlstraße 10;99817;Eisenach;Germany;36;47151
+Rituals Bad Kreuznach;Mannheimer Straße 133;55543;Bad Kreuznach;Germany;33;17695
+Rituals München Schwanthalerhöhe;Theriesienhöhe 5;80339;München;Germany;39;34420
+Rituals Coburg;Spitalgasse 9;96450;Coburg;Germany;18;28531
+Rituals Frankfurt Hessen-Center; Borsigallee 26;60388;Frankfurt;Germany;40;42981
+Rituals Bamberg Grüner Markt;Grüner Markt 26;96047;Bamberg;Germany;46;11150
+Rituals Aachen Rethelstraße;Rethelstraße 1;52062;Aachen;Germany;35;27500
+Rituals Berlin Boulevard; Schlossstraße 11;12163;Berlin;Germany;48;32597
+Rituals Mainz;Am Brand 9;55116;Mainz;Germany;44;48437
+Rituals Koblenz Forum;Forum Mittelrhein Kobelenz Zentralplatz 2 Koblenz;56068;Koblenz;Germany;42;41083
+Rituals Freiburg;Kaiser-Joseph-straße 231;79098;Freiburg;Germany;50;31888
+Rituals Hildesheim; Arnekenstraße 18;31134;Hildesheim;Germany;44;35791
+Rituals Magdeburg Allee-Center;Ernst-Reuter-Allee 11;39104;Magdeburg;Germany;38;49383
+Rituals Ingolstadt Village; Otto-Hahn-Straße 1;85055;Ingolstadt;Germany;23;34933
+Rituals Hamburger Meile; Hamburger Straße 19-47;22083;Hamburg;Germany;38;18909
+Rituals Weiden Stadtgalerie;Weißenburgstraße 5;92637;Weiden;Germany;15;26660
+Rituals Saarlouis;Französische Straße 30;66740;Saarlouis;Germany;22;30571
+Rituals Landshut;Theaterstraße 59-60;84028;Landshut;Germany;38;24999
+Rituals Dortmund Thier Galerie; Westenhellweg 102-106;44137;Dortmund;Germany;34;19601
+Rituals Heilbronn Stadtgalerie; Deutschhofstraße 19;74072;Heilbronn;Germany;29;44185
+Rituals Leverkusen; Friedrich-Ebert-Platz 2;51373;Leverkusen;Germany;45;13240
+Rituals Essen Limbecker Platz; Limbecker Platz 1;45127;Essen;Germany;44;35947
+Rituals Nürnberg Karolinenstraße;Karolinenstraße 27;90402;Nürnberg;Germany;30;19327
+Rituals Passau; Bahnhofstraße 1;94032;Passau;Germany;39;37037
+Rituals Sulzbach MTZ;Main-Taunus-Zentrum 1;65843;Sulzbach (Taunus);Germany;39;13487
+Rituals Neu Isenburg; Hermesstraße 4;63263;Neu-Isenburg;Germany;27;18643
+Rituals Frankfurt Kaiserstraße;Kaiserstraße 12;60311;Frankfurt;Germany;16;28981
+Rituals Aschaffenburg City Galerie;Goldbacher Straße 2;63739;Aschaffenburg;Germany;40;26468
+Rituals Düsseldorf Arcaden;Friedrichstraße 133;40217;Düsseldorf;Germany;30;10456
+Rituals Dortmund Westenhellweg;Westenhellweg 22;44137;Dortmund;Germany;37;27149
+Rituals Fürth Neue Mitte;Rudolf Breitscheid Straße 7;90762;Fürth;Germany;37;35713
+Rituals Leeuwarden;Nieuwestad 116;8911 CZ;Leeuwarden;Netherlands;48;33618
+Rituals Leiden Haarlemmerstraat;Haarlemmerstraat 118-120;2312 GE;Leiden;Netherlands;15;32953
+Rituals Lisse;Blokhuis 49;2161 EV;Lisse;Netherlands;50;19397
+Rituals Maastricht Grote Staat;Grote Staat 37;6211 CT;Maastricht;Netherlands;39;30249
+Rituals Naaldwijk;De Tuinen 41;2671 NX;Naaldwijk;Netherlands;30;21033
+Rituals Nieuwegein;Passage 29-31;3431 LV;Nieuwegein;Netherlands;35;47931
+Rituals Amsterdam Leidsestraat;Leidsestraat 15;1017 NT;Amsterdam;Netherlands;48;49763
+Rituals Rijswijk;Prins Constantijn Promenade 36;2284 DK;Rijswijk ZH;Netherlands;49;41071
+Rituals Rotterdam Hillegersberg;Bergse Dorpstraat 99A;3054 GC;Rotterdam;Netherlands;25;14821
+Rituals Schiphol Plaza;Aankomsthal 4;1118 AV;Schiphol;Netherlands;45;17273
+Rituals Sluis;Kapellestraat 37;4524 CW;Sluis;Netherlands;16;12707
+Rituals Groningen Waagstraat;Waagstraat 10-12;9711 JX;Groningen;Netherlands;37;45965
+Rituals Hoofddorp;Marktplein 30;2132 DB;Hoofddorp;Netherlands;46;38919
+Rituals Heerlen;Saroleastraat 47-49;6411 LR;Heerlen;Netherlands;24;48628
+Rituals Heerhugowaard;Middenwaard 21;1703 SB;Heerhugowaard;Netherlands;15;19381
+Rituals Gouda;Kleiweg 1-3;2801 GB;Gouda;Netherlands;37;40262
+Rituals Heerenveen;Dracht 89;8442 BM;Heerenveen;Netherlands;43;33054
+Rituals Emmen;Picassopassage 14;7811 DP;Emmen;Netherlands;42;33109
+Rituals Heemstede;Binnenweg 130;2101 JP;Heemstede;Netherlands;25;35808
+Rituals Enschede;H.J. van Heekplein 52D;7511 HN;Enschede;Netherlands;17;42481
+Rituals Hoorn;Grote Noord 55;1621 KE;Hoorn;Netherlands;41;34220
+Rituals Bergen;Stationsstraat 1;1861 GA;Bergen;Netherlands;43;38502
+Rituals Apeldoorn;Hoofdstraat 87;7311 JX;Apeldoorn;Netherlands;24;41811
+Rituals Breda Wilhelminastraat;Wilheminastraat 14;4818 SG;Breda;Netherlands;17;34113
+Rituals Den Haag Fred;Frederik Hendriklaan 214;2582 BL;Den Haag;Netherlands;18;30319
+Rituals Bussum;Nassaulaan 28;1404 CR;Bussum;Netherlands;16;36525
+Rituals Doetinchem;Hamburgerstraat 35;7001 AH;Doetinchem;Netherlands;32;23249
+Rituals Bergen op Zoom;Sint Josephstraat 5;4611 MJ;Bergen op Zoom;Netherlands;17;12071
+Rituals Breda Houtmarkt;Ginnekenstraat 1;4811 HV;Breda;Netherlands;19;16262
+Rituals Delft;Jacob Gerritstraat 5-7;2611 ES;Delft;Netherlands;37;27804
+Rituals Den Haag Spuistraat;Spuistraat 13;2511 BC;DenHaag;Netherlands;20;40580
+Rituals Amstelveen;Binnenhof 70-71;1181 ZJ;Amstelveen;Netherlands;27;40283
+Rituals Almere Diagonaal;De Diagonaal 18;1315 XD;Almere;Netherlands;49;39053
+Rituals Amsterdam Oostpoort;Waldenlaan 133;1093 NH;Amsterdam;Netherlands;33;43028
+Rituals Alphen a/d Rijn;Van Mandersloostraat 96;2406 CE;Alphen aan den Rijn;Netherlands;37;32455
+Rituals Amsterdam Beethovenstraat;Beethovenstraat 48H;1077 JK;Amsterdam;Netherlands;25;21062
+Rituals Amsterdam Buikslotermeerplein;Buikslotermeerplein 139;1025 ET;Amsterdam;Netherlands;28;33598
+Rituals Amersfoort;Langestraat 30;3811 AH;Amersfoort;Netherlands;49;20046
+Rituals Roermond Designer Outlet;Stadsweide 442;6041 TD;Roermond;Netherlands;49;20353
+Rituals Amsterdam Ferdinand Bolstraat;Ferdinand bolstraat 73;1072 NB;Amsterdam;Netherlands;38;19033
+Rituals Venlo;Vleesstraat 14;5911 JE;Venlo;Netherlands;31;39267
+Rituals Roosendaal;Roselaar 9;4701 BA;Roosendaal;Netherlands;40;35416
+Rituals Leidschendam;Noordsingel Berkenhove 15 + 17;2262 AK;Leidschendam;Netherlands;15;42068
+Rituals Tiel;Waterstraat 40;4001 AP;Tiel;Netherlands;49;19973
+Rituals Noordwijk;Hoofdstraat 65;2202 EV;Noordwijk;Netherlands;31;13594
+Rituals Wassenaar;Langstraat 93;2242 KL;Wassenaar;Netherlands;23;11670
+Rituals Eindhoven Demer;Demer 1A/1B;5611 AN;Eindhoven;Netherlands;37;17599
+Rituals Rotterdam Centraal Station;Stationsplein 19B;3013 AJ;Rotterdam;Netherlands;33;12343
+Rituals Groningen Centraal Station;Stationsplein 3B;9726 AE;Groningen;Netherlands;26;48307
+Rituals Den Bosch Gasselstraat;Gasselstraat 28;5211 KJ;'s-Hertogenbosch;Netherlands;27;20585
+Rituals Eindhoven Woensel;Woensel 271;5625 AG;Eindhoven;Netherlands;18;10164
+Rituals Amsterdam Station Zuid;Gustav Mahlerplein 13;1082 MA;Amsterdam;Netherlands;47;40243
+Rituals Amsterdam Amstel Station;Julianapassage 2;1097 JT;Amsterdam;Netherlands;30;23926
+Rituals Leiden Centraal Station;Stationsplein 3B;2312 AJ;Leiden;Netherlands;50;47988
+Rituals Veldhoven;Pleintjes 64-66;5501 EB;Veldhoven;Netherlands;20;41718
+Rituals Amsterdam Centraal Station;Stationsplein 141B-C;1012 AB;Amsterdam;Netherlands;39;32500
+Rituals Purmerend;Willem Eggertstraat 29;1441 CH;Purmerend;Netherlands;24;29266
+Rituals Goes;Lange Kerkstraat 2;4461 JH;Goes;Netherlands;25;27613
+Rituals Zaandam;Gedempte Gracht 87;1506 CD;Zaandam;Netherlands;15;46463
+Rituals Alkmaar;Langestraat 57;1811 HG;Alkmaar;Netherlands;40;18154
+Rituals Domburg;Markt 5;4357 BG;Domburg;Netherlands;40;21383
+Rituals Utrecht Centraal Station;Stationshal 12 C;3511 CE;Utrecht;Netherlands;29;20867
+Rituals Middelburg;Lange Delft 9-11;4331 AJ;Middelburg;Netherlands;36;24807
+Rituals Beek;Wethouder Sangersstraat 184;6191 NA;Beek;Netherlands;43;33898
+Rituals Zwolle;Diezerstraat 68-70;8011 RH;Zwolle;Netherlands;28;27370
+Rituals Haarlem;Barteljorisstraat 33;2011 RA;Haarlem;Netherlands;44;17541
+Rituals Nijmegen;Broerstraat 52A;6511 KP;Nijmegen;Netherlands;45;29091
+Rituals Harderwijk;Donkerstraat 50B;3841 CD;Harderwijk;Netherlands;31;35524
+Rituals Schiphol Holland Boulevard;Schiphol;1118 CP;Schiphol;Netherlands;25;26517
+Rituals Rotterdam Forum;Lijnbaan 112;3012 ER;Rotterdam;Netherlands;34;30479
+Rituals Schiphol Lounge 3;Evert van Beekstraat 202;1118 CP;Schiphol;Netherlands;40;45084
+Rituals Arnhem Ketelstraat;Ketelstraat 35;6811 CZ;Arnhem;Netherlands;15;34172
+Rituals Almere Stationsstraat;Stationsstraat 44;1315 KJ;Almere;Netherlands;48;40651
+Rituals Dordrecht;Statenplein 42A;3311 NG;Dordrecht;Netherlands;49;23996
+Rituals Hilversum;Kerkstraat 20;1211 CN;Hilversum;Netherlands;29;48183
+Rituals Arnhem Kronenburg;Kronenburgpassage 94A;6831 ER;Arnhem;Netherlands;40;22231
+Rituals Gorinchem;Gasthuisstraat 5;4201 JM;Gorinchem;Netherlands;37;11236
+Rituals Deventer;Lange Bisschopstraat 71;7411 KJ;Deventer;Netherlands;39;30184
+Rituals Zutphen;Beukerstraat 30;7201 LE;Zutphen;Netherlands;42;33601
+Rituals Winterswijk;Misterstraat 40;7101 EX;Winterswijk;Netherlands;31;46246
+Rituals Capelle ad IJssel Centrumpassage;Centrumpassage 124;2903 HA;Capelle aan den IJssel;Netherlands;20;12496
+Rituals Amsterdam House of Rituals;Spui 10;1012 PP;Amsterdam;Netherlands;23;13402
+Rituals Rotterdam Alexandrium;Poolsterstraat 116 - 120;3067 LX;Rotterdam;Netherlands;42;36009
+Rituals Oss;Heuvelstraat 17;5341 EA;Oss;Netherlands;15;23168
+Rituals Utrecht Leidsche Rijn;Praagpromenade 2;3541 CP;Utrecht;Netherlands;23;11853
+Rituals Den Bosch Vughterstraat;Vughterstraat 1;5211 EW;'s-Hertogenbosch;Netherlands;45;14170
+Rituals Assen;Mercuriusplein 50;9401 DL;Assen;Netherlands;16;23599
+Rituals Rotterdam Zuidplein;Zuidplein hoog 679;3083 BH;Rotterdam;Netherlands;26;47760
+Rituals Rotterdam Meent;Meent 95;3011 JG;Rotterdam;Netherlands;27;32653
+Rituals Roermond;Steenweg 11-13;6041 EV;Roermond;Netherlands;36;42449
+Rituals Drachten;Zuiderbuurt 19;9203 CS;Drachten;Netherlands;41;42854
+Rituals Utrecht Hoog Catharijne;Boven Vredenburgpassage 116;3511 WR;Utrecht;Netherlands;31;32470
+Rituals Laren;Sint Janstraat 14;1251 LA;Laren;Netherlands;26;34096
+Rituals Amsterdam Utrechtsestraat;Utrechtsestraat 84 hs;1017 VR;Amsterdam;Netherlands;43;21545
+Rituals Oisterwijk;De Lind 37;5061 HT;Oisterwijk;Netherlands;34;23017
+Rituals Waalwijk;Stationsstraat 7a;5141 GB;Waalwijk;Netherlands;38;10755
+Rituals Uden;Marktstraat 24;5401 GH;Uden;Netherlands;28;42307
+Rituals Zeist;Slotlaan 168;3701 GS;Zeist;Netherlands;40;12707
+Rituals Weert;Muntpassage 2;6001 GM;Weert;Netherlands;28;37832
+Rituals Amsterdam Gelderlandplein;Gelderlandplein 80;1082 LB;Amsterdam;Netherlands;34;15062
+Rituals Zoetermeer;Westwaarts 70;2711 AC;Zoetermeer;Netherlands;43;12095
+Rituals Helmond;Veestraat 25;5701 RA;Helmond;Netherlands;22;24700
+Rituals Utrecht Steenweg;Steenweg 69;3511 JN;Utrecht;Netherlands;29;26190
+Rituals Spijkenisse;Stadhuispassage 6;3201 ES;Spijkenisse;Netherlands;20;42850
+Rituals Tilburg;Heuvelstraat 30;5038 AE;Tilburg;Netherlands;42;36032
+Rituals Sneek;Oosterdijk 45;8601 BP;Sneek;Netherlands;19;49396
+Rituals Volendam;Zeestraat 5;1131 ZD;Volendam;Netherlands;50;35549
+Rituals Veenendaal;Hoofdstraat 20;3901 AM;Veenendaal;Netherlands;37;46704
+Rituals Utrecht Nachtegaalstraat;Nachtegaalstraat 60;3581 AL;Utrecht;Netherlands;16;48892
